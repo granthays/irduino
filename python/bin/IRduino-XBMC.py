@@ -14,7 +14,6 @@
 #
 #----------------------------------------------------------------------------------
 
-import irduino
 import irduino.collect
 import irduino.codes
 import irduino.mac_controls

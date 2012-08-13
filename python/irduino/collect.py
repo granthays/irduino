@@ -1,6 +1,3 @@
-
-
-import irduino
 import codes
 import serial.tools.list_ports
 
